@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\bin\Debug\CalculateIncomeTax.exe.config
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\bin\Debug\CalculateIncomeTax.exe
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\bin\Debug\CalculateIncomeTax.pdb
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\obj\Debug\CalculateIncomeTax.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\obj\Debug\CalculateIncomeTax.Form1.resources
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\obj\Debug\CalculateIncomeTax.Properties.Resources.resources
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\obj\Debug\CalculateIncomeTax.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\obj\Debug\CalculateIncomeTax.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\obj\Debug\CalculateIncomeTax.exe
+C:\Users\Public\Documents\プログラミングの勉強\C#\CalculateIncomeTax\CalculateIncomeTax\obj\Debug\CalculateIncomeTax.pdb
